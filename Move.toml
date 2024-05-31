@@ -1,0 +1,17 @@
+[package]
+name = "AptosNFTStudio"
+version = "0.1.0"
+authors = ["AptosNFTStudio <aptosnftlabs@gmail.com>"]
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir="aptos-move/framework/aptos-framework/", rev="main" }
+AptosToken = { git = "https://github.com/aptos-labs/aptos-core.git", subdir="aptos-move/framework/aptos-token/", rev="main" }
+
+[addresses]
+aptos_framework = "0x1"
+# change it to the default source address when publishing the module
+source_addr = "31655ff115d930c50c718255d48280c49606212545e355e7bbf87e5ea1225a52"
+# change it to the actual admin address when publishing the module
+admin_addr = "d448330b73b8c8e656aec5c1c389c53ac09f105b445e3262b5fc6b3ac7f27452"
+# this will set your partner address - default to aptosnftstudio address. 
+aptosnftstudio_addr = "ce16350458a75d9d2b08527d8396c16af641f52486aadd72ac36f6dc2a01c44c"
