@@ -4,7 +4,7 @@ This is a tutorial for deploying a NFT collection on Aptos Devnet based on the [
 For the purpose of this tutorial, we will use Aptos Devnet. You can setup profiles to publish to Aptos Mainnet when ready to do so.
 
 This repo contains the Move contract to deploy the resource.
-The Dapp for frontend minting is available here. 
+The Dapp for frontend minting is available at this repo [Aptos NFT Dapp](https://github.com/aptos-nft-studio/Aptos-NFT-Dapp).
 
 ### Pre-requisites
 
