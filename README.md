@@ -8,6 +8,12 @@ The Dapp for frontend minting is available at this repo [Aptos NFT Dapp](https:/
 
 Video Tutorial: [https://www.youtube.com/watch?v=h1HUgilNuSE](https://www.youtube.com/watch?v=h1HUgilNuSE)
 
+NFT Sample JSON Files: [https://github.com/aptos-nft-studio/NFT-Sample-JSON-Files](https://github.com/aptos-nft-studio/NFT-Sample-JSON-Files)
+
+Aptos NFT Dapp: [https://github.com/aptos-nft-studio/Aptos-NFT-Dapp](https://github.com/aptos-nft-studio/Aptos-NFT-Dapp)
+
+Aptos Move NFT Contract: [https://github.com/aptos-nft-studio/Aptos-Move-NFT-Contract](https://github.com/aptos-nft-studio/Aptos-Move-NFT-Contract)
+
 ### Pre-requisites
 
 Step 1) 
