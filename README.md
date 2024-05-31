@@ -6,6 +6,8 @@ For the purpose of this tutorial, we will use Aptos Devnet. You can setup profil
 This repo contains the Move contract to deploy the resource.
 The Dapp for frontend minting is available at this repo [Aptos NFT Dapp](https://github.com/aptos-nft-studio/Aptos-NFT-Dapp).
 
+Video Tutorial: [https://www.youtube.com/watch?v=h1HUgilNuSE](https://www.youtube.com/watch?v=h1HUgilNuSE)
+
 ### Pre-requisites
 
 Step 1) 
