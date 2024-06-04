@@ -1,4 +1,4 @@
-# Aptos NFT Studio - Open Source
+# Aptos NFT Studio - Open Source Aptos NFT Move Contract
 
 This is a tutorial for deploying a NFT collection on Aptos Devnet based on the [Aptos Token standard](https://aptos.dev/standards/aptos-token).
 For the purpose of this tutorial, we will use Aptos Devnet. You can setup profiles to publish to Aptos Mainnet when ready to do so.
